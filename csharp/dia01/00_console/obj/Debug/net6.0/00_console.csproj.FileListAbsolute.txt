@@ -1,0 +1,15 @@
+c:\projetos\cursos\ITAcademy17\csharp\dia01\00_console\bin\Debug\net6.0\00_console.exe
+c:\projetos\cursos\ITAcademy17\csharp\dia01\00_console\bin\Debug\net6.0\00_console.deps.json
+c:\projetos\cursos\ITAcademy17\csharp\dia01\00_console\bin\Debug\net6.0\00_console.runtimeconfig.json
+c:\projetos\cursos\ITAcademy17\csharp\dia01\00_console\bin\Debug\net6.0\00_console.dll
+c:\projetos\cursos\ITAcademy17\csharp\dia01\00_console\bin\Debug\net6.0\00_console.pdb
+c:\projetos\cursos\ITAcademy17\csharp\dia01\00_console\obj\Debug\net6.0\00_console.csproj.AssemblyReference.cache
+c:\projetos\cursos\ITAcademy17\csharp\dia01\00_console\obj\Debug\net6.0\00_console.GeneratedMSBuildEditorConfig.editorconfig
+c:\projetos\cursos\ITAcademy17\csharp\dia01\00_console\obj\Debug\net6.0\00_console.AssemblyInfoInputs.cache
+c:\projetos\cursos\ITAcademy17\csharp\dia01\00_console\obj\Debug\net6.0\00_console.AssemblyInfo.cs
+c:\projetos\cursos\ITAcademy17\csharp\dia01\00_console\obj\Debug\net6.0\00_console.csproj.CoreCompileInputs.cache
+c:\projetos\cursos\ITAcademy17\csharp\dia01\00_console\obj\Debug\net6.0\00_console.dll
+c:\projetos\cursos\ITAcademy17\csharp\dia01\00_console\obj\Debug\net6.0\refint\00_console.dll
+c:\projetos\cursos\ITAcademy17\csharp\dia01\00_console\obj\Debug\net6.0\00_console.pdb
+c:\projetos\cursos\ITAcademy17\csharp\dia01\00_console\obj\Debug\net6.0\00_console.genruntimeconfig.cache
+c:\projetos\cursos\ITAcademy17\csharp\dia01\00_console\obj\Debug\net6.0\ref\00_console.dll

@@ -1,0 +1,15 @@
+C:\projetos\cursos\ITAcademy17\csharp\dia02\01_collection\obj\Debug\net6.0\01_collection.csproj.AssemblyReference.cache
+C:\projetos\cursos\ITAcademy17\csharp\dia02\01_collection\obj\Debug\net6.0\01_collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\cursos\ITAcademy17\csharp\dia02\01_collection\obj\Debug\net6.0\01_collection.AssemblyInfoInputs.cache
+C:\projetos\cursos\ITAcademy17\csharp\dia02\01_collection\obj\Debug\net6.0\01_collection.AssemblyInfo.cs
+C:\projetos\cursos\ITAcademy17\csharp\dia02\01_collection\obj\Debug\net6.0\01_collection.csproj.CoreCompileInputs.cache
+C:\projetos\cursos\ITAcademy17\csharp\dia02\01_collection\bin\Debug\net6.0\01_collection.exe
+C:\projetos\cursos\ITAcademy17\csharp\dia02\01_collection\bin\Debug\net6.0\01_collection.deps.json
+C:\projetos\cursos\ITAcademy17\csharp\dia02\01_collection\bin\Debug\net6.0\01_collection.runtimeconfig.json
+C:\projetos\cursos\ITAcademy17\csharp\dia02\01_collection\bin\Debug\net6.0\01_collection.dll
+C:\projetos\cursos\ITAcademy17\csharp\dia02\01_collection\bin\Debug\net6.0\01_collection.pdb
+C:\projetos\cursos\ITAcademy17\csharp\dia02\01_collection\obj\Debug\net6.0\01_collection.dll
+C:\projetos\cursos\ITAcademy17\csharp\dia02\01_collection\obj\Debug\net6.0\refint\01_collection.dll
+C:\projetos\cursos\ITAcademy17\csharp\dia02\01_collection\obj\Debug\net6.0\01_collection.pdb
+C:\projetos\cursos\ITAcademy17\csharp\dia02\01_collection\obj\Debug\net6.0\01_collection.genruntimeconfig.cache
+C:\projetos\cursos\ITAcademy17\csharp\dia02\01_collection\obj\Debug\net6.0\ref\01_collection.dll

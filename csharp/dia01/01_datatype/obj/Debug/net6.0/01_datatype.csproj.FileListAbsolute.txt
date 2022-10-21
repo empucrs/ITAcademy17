@@ -1,0 +1,15 @@
+C:\projetos\cursos\ITAcademy17\csharp\dia01\01_datatype\bin\Debug\net6.0\01_datatype.exe
+C:\projetos\cursos\ITAcademy17\csharp\dia01\01_datatype\bin\Debug\net6.0\01_datatype.deps.json
+C:\projetos\cursos\ITAcademy17\csharp\dia01\01_datatype\bin\Debug\net6.0\01_datatype.runtimeconfig.json
+C:\projetos\cursos\ITAcademy17\csharp\dia01\01_datatype\bin\Debug\net6.0\01_datatype.dll
+C:\projetos\cursos\ITAcademy17\csharp\dia01\01_datatype\bin\Debug\net6.0\01_datatype.pdb
+C:\projetos\cursos\ITAcademy17\csharp\dia01\01_datatype\obj\Debug\net6.0\01_datatype.csproj.AssemblyReference.cache
+C:\projetos\cursos\ITAcademy17\csharp\dia01\01_datatype\obj\Debug\net6.0\01_datatype.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\cursos\ITAcademy17\csharp\dia01\01_datatype\obj\Debug\net6.0\01_datatype.AssemblyInfoInputs.cache
+C:\projetos\cursos\ITAcademy17\csharp\dia01\01_datatype\obj\Debug\net6.0\01_datatype.AssemblyInfo.cs
+C:\projetos\cursos\ITAcademy17\csharp\dia01\01_datatype\obj\Debug\net6.0\01_datatype.csproj.CoreCompileInputs.cache
+C:\projetos\cursos\ITAcademy17\csharp\dia01\01_datatype\obj\Debug\net6.0\01_datatype.dll
+C:\projetos\cursos\ITAcademy17\csharp\dia01\01_datatype\obj\Debug\net6.0\refint\01_datatype.dll
+C:\projetos\cursos\ITAcademy17\csharp\dia01\01_datatype\obj\Debug\net6.0\01_datatype.pdb
+C:\projetos\cursos\ITAcademy17\csharp\dia01\01_datatype\obj\Debug\net6.0\01_datatype.genruntimeconfig.cache
+C:\projetos\cursos\ITAcademy17\csharp\dia01\01_datatype\obj\Debug\net6.0\ref\01_datatype.dll
