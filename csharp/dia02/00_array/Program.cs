@@ -28,6 +28,3 @@ for(int x=0; x<jaggedArray.Length; x++){
     Console.WriteLine($"  Jagged[{x}],[{y}]: {jaggedArray[x][y]}");
   Console.WriteLine();
 }
-
-
-

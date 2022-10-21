@@ -76,10 +76,6 @@ class Program
         foreach (Int32 valorLLI in lli)
             Console.WriteLine(valorLLI);
 
-
-
-
-
     }
     
 }
