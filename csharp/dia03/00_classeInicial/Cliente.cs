@@ -48,6 +48,11 @@ namespace namespaceCliente
                 Console.WriteLine("  -> "+item);
         }
 
+        public void teste(out int xaxa){
+            //Console.WriteLine("Eu até escreveria em xuxu... mas não quero.." + xaxa);
+            xaxa = 102;
+        }
+
 
 
 

@@ -61,3 +61,7 @@ ClienteComConstrutor ccc = new ClienteComConstrutor("Edson", 2260);
 Console.WriteLine("Criado o cliente " +ccc.nome+" com o id "+ccc.outraCoisa);
 
 Console.WriteLine("Usando o indexador em C# ->" + ccc[3]);
+
+int xuxu=12;
+c.teste(out xuxu);
+Console.WriteLine("Não posso acessar o xuxu pq não foi inicializado");
