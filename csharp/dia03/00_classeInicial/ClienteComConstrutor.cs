@@ -1,7 +1,14 @@
 
-namespace namespaceCliente
+namespace namespaceClienteComConstrutor
 {    
-    class Cliente{
+    class ClienteComConstrutor{
+
+        //DEFINICAO DO CONTRUTOR
+        public ClienteComConstrutor(string umNome, uint id){
+            this.nome=umNome;
+            this.clienteID=id;
+            this.ultimoIndice=-1;
+        }
 
         // CAMPOS DA CLASSE
         public string nome;
@@ -48,8 +55,11 @@ namespace namespaceCliente
                 Console.WriteLine("  -> "+item);
         }
 
-
-
+        private int ultimoIndice;
+        public string this[int i]{
+            get{return "índice pedido é "+i+ " e o último indice acessodo foi "+ultimoIndice;}
+            set{ultimoIndice=i;}
+        }
 
     }
 }
