@@ -1,0 +1,15 @@
+C:\projetos\cursos\ITAcademy17\csharp\dia04\02_delegate\obj\Debug\net6.0\02_delegate.csproj.AssemblyReference.cache
+C:\projetos\cursos\ITAcademy17\csharp\dia04\02_delegate\obj\Debug\net6.0\02_delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\cursos\ITAcademy17\csharp\dia04\02_delegate\obj\Debug\net6.0\02_delegate.AssemblyInfoInputs.cache
+C:\projetos\cursos\ITAcademy17\csharp\dia04\02_delegate\obj\Debug\net6.0\02_delegate.AssemblyInfo.cs
+C:\projetos\cursos\ITAcademy17\csharp\dia04\02_delegate\obj\Debug\net6.0\02_delegate.csproj.CoreCompileInputs.cache
+C:\projetos\cursos\ITAcademy17\csharp\dia04\02_delegate\bin\Debug\net6.0\02_delegate.exe
+C:\projetos\cursos\ITAcademy17\csharp\dia04\02_delegate\bin\Debug\net6.0\02_delegate.deps.json
+C:\projetos\cursos\ITAcademy17\csharp\dia04\02_delegate\bin\Debug\net6.0\02_delegate.runtimeconfig.json
+C:\projetos\cursos\ITAcademy17\csharp\dia04\02_delegate\bin\Debug\net6.0\02_delegate.dll
+C:\projetos\cursos\ITAcademy17\csharp\dia04\02_delegate\bin\Debug\net6.0\02_delegate.pdb
+C:\projetos\cursos\ITAcademy17\csharp\dia04\02_delegate\obj\Debug\net6.0\02_delegate.dll
+C:\projetos\cursos\ITAcademy17\csharp\dia04\02_delegate\obj\Debug\net6.0\refint\02_delegate.dll
+C:\projetos\cursos\ITAcademy17\csharp\dia04\02_delegate\obj\Debug\net6.0\02_delegate.pdb
+C:\projetos\cursos\ITAcademy17\csharp\dia04\02_delegate\obj\Debug\net6.0\02_delegate.genruntimeconfig.cache
+C:\projetos\cursos\ITAcademy17\csharp\dia04\02_delegate\obj\Debug\net6.0\ref\02_delegate.dll
