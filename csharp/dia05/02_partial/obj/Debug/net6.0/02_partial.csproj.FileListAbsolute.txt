@@ -1,0 +1,15 @@
+C:\projetos\cursos\ITAcademy17\csharp\dia05\02_partial\obj\Debug\net6.0\02_partial.csproj.AssemblyReference.cache
+C:\projetos\cursos\ITAcademy17\csharp\dia05\02_partial\obj\Debug\net6.0\02_partial.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\cursos\ITAcademy17\csharp\dia05\02_partial\obj\Debug\net6.0\02_partial.AssemblyInfoInputs.cache
+C:\projetos\cursos\ITAcademy17\csharp\dia05\02_partial\obj\Debug\net6.0\02_partial.AssemblyInfo.cs
+C:\projetos\cursos\ITAcademy17\csharp\dia05\02_partial\obj\Debug\net6.0\02_partial.csproj.CoreCompileInputs.cache
+C:\projetos\cursos\ITAcademy17\csharp\dia05\02_partial\bin\Debug\net6.0\02_partial.exe
+C:\projetos\cursos\ITAcademy17\csharp\dia05\02_partial\bin\Debug\net6.0\02_partial.deps.json
+C:\projetos\cursos\ITAcademy17\csharp\dia05\02_partial\bin\Debug\net6.0\02_partial.runtimeconfig.json
+C:\projetos\cursos\ITAcademy17\csharp\dia05\02_partial\bin\Debug\net6.0\02_partial.dll
+C:\projetos\cursos\ITAcademy17\csharp\dia05\02_partial\bin\Debug\net6.0\02_partial.pdb
+C:\projetos\cursos\ITAcademy17\csharp\dia05\02_partial\obj\Debug\net6.0\02_partial.dll
+C:\projetos\cursos\ITAcademy17\csharp\dia05\02_partial\obj\Debug\net6.0\refint\02_partial.dll
+C:\projetos\cursos\ITAcademy17\csharp\dia05\02_partial\obj\Debug\net6.0\02_partial.pdb
+C:\projetos\cursos\ITAcademy17\csharp\dia05\02_partial\obj\Debug\net6.0\02_partial.genruntimeconfig.cache
+C:\projetos\cursos\ITAcademy17\csharp\dia05\02_partial\obj\Debug\net6.0\ref\02_partial.dll
