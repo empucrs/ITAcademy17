@@ -1,0 +1,15 @@
+C:\projetos\cursos\ITAcademy17\csharp\dia04\00_overload\obj\Debug\net6.0\00_overload.csproj.AssemblyReference.cache
+C:\projetos\cursos\ITAcademy17\csharp\dia04\00_overload\obj\Debug\net6.0\00_overload.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\cursos\ITAcademy17\csharp\dia04\00_overload\obj\Debug\net6.0\00_overload.AssemblyInfoInputs.cache
+C:\projetos\cursos\ITAcademy17\csharp\dia04\00_overload\obj\Debug\net6.0\00_overload.AssemblyInfo.cs
+C:\projetos\cursos\ITAcademy17\csharp\dia04\00_overload\obj\Debug\net6.0\00_overload.csproj.CoreCompileInputs.cache
+C:\projetos\cursos\ITAcademy17\csharp\dia04\00_overload\bin\Debug\net6.0\00_overload.exe
+C:\projetos\cursos\ITAcademy17\csharp\dia04\00_overload\bin\Debug\net6.0\00_overload.deps.json
+C:\projetos\cursos\ITAcademy17\csharp\dia04\00_overload\bin\Debug\net6.0\00_overload.runtimeconfig.json
+C:\projetos\cursos\ITAcademy17\csharp\dia04\00_overload\bin\Debug\net6.0\00_overload.dll
+C:\projetos\cursos\ITAcademy17\csharp\dia04\00_overload\bin\Debug\net6.0\00_overload.pdb
+C:\projetos\cursos\ITAcademy17\csharp\dia04\00_overload\obj\Debug\net6.0\00_overload.dll
+C:\projetos\cursos\ITAcademy17\csharp\dia04\00_overload\obj\Debug\net6.0\refint\00_overload.dll
+C:\projetos\cursos\ITAcademy17\csharp\dia04\00_overload\obj\Debug\net6.0\00_overload.pdb
+C:\projetos\cursos\ITAcademy17\csharp\dia04\00_overload\obj\Debug\net6.0\00_overload.genruntimeconfig.cache
+C:\projetos\cursos\ITAcademy17\csharp\dia04\00_overload\obj\Debug\net6.0\ref\00_overload.dll

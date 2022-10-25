@@ -1,0 +1,15 @@
+C:\projetos\cursos\ITAcademy17\csharp\dia04\01_staticmember\obj\Debug\net6.0\01_staticmember.csproj.AssemblyReference.cache
+C:\projetos\cursos\ITAcademy17\csharp\dia04\01_staticmember\obj\Debug\net6.0\01_staticmember.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\cursos\ITAcademy17\csharp\dia04\01_staticmember\obj\Debug\net6.0\01_staticmember.AssemblyInfoInputs.cache
+C:\projetos\cursos\ITAcademy17\csharp\dia04\01_staticmember\obj\Debug\net6.0\01_staticmember.AssemblyInfo.cs
+C:\projetos\cursos\ITAcademy17\csharp\dia04\01_staticmember\obj\Debug\net6.0\01_staticmember.csproj.CoreCompileInputs.cache
+C:\projetos\cursos\ITAcademy17\csharp\dia04\01_staticmember\bin\Debug\net6.0\01_staticmember.exe
+C:\projetos\cursos\ITAcademy17\csharp\dia04\01_staticmember\bin\Debug\net6.0\01_staticmember.deps.json
+C:\projetos\cursos\ITAcademy17\csharp\dia04\01_staticmember\bin\Debug\net6.0\01_staticmember.runtimeconfig.json
+C:\projetos\cursos\ITAcademy17\csharp\dia04\01_staticmember\bin\Debug\net6.0\01_staticmember.dll
+C:\projetos\cursos\ITAcademy17\csharp\dia04\01_staticmember\bin\Debug\net6.0\01_staticmember.pdb
+C:\projetos\cursos\ITAcademy17\csharp\dia04\01_staticmember\obj\Debug\net6.0\01_staticmember.dll
+C:\projetos\cursos\ITAcademy17\csharp\dia04\01_staticmember\obj\Debug\net6.0\refint\01_staticmember.dll
+C:\projetos\cursos\ITAcademy17\csharp\dia04\01_staticmember\obj\Debug\net6.0\01_staticmember.pdb
+C:\projetos\cursos\ITAcademy17\csharp\dia04\01_staticmember\obj\Debug\net6.0\01_staticmember.genruntimeconfig.cache
+C:\projetos\cursos\ITAcademy17\csharp\dia04\01_staticmember\obj\Debug\net6.0\ref\01_staticmember.dll
