@@ -1,0 +1,18 @@
+﻿@{
+    var lista = new List<string> {"palavra01", "palavra02", "palavra03"};
+    DateTime hoje = DateTime.Now.Date;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome - every body</h1>
+    <p>Estou adorando trabalhar com ASP.NET... .</p>    
+    <p>O dia de hj é @hoje.ToString()</p>
+    <p>A lista de palavras criadas foi</p>
+    <ul>
+        @foreach (var item in lista)
+        {
+            <li>@item</li>            
+        }
+
+    </ul>
+</div>
