@@ -1,7 +1,10 @@
+using _01_mvcCEP.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddSingleton<ICEPServices, CEPMemoryService>();
 
 var app = builder.Build();
 
