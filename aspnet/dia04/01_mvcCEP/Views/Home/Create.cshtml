@@ -1,0 +1,35 @@
+﻿@model CEPViewModel
+@{
+    ViewData["Title"] = "Cadastro CEPs";
+}
+
+<h2>Cadastro de detalhes de CEP</h2>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div class="form-group">
+                <label asp-for="CEP"></label>
+                <input asp-for="CEP" />
+            </div>
+            <div class="form-group">
+                <label asp-for="UF"></label>
+                <input asp-for="UF" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Cidade"></label>
+                <input asp-for="Cidade" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Bairro"></label>
+                <input asp-for="Bairro" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Logradouro"></label>
+                <input asp-for="Logradouro" />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Criar">
+            </div>
+        </form>
+    </div>    
+</div>
