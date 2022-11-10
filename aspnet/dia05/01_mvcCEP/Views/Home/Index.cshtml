@@ -1,0 +1,29 @@
+﻿@model IEnumerable<CEPViewModel>
+@{
+    ViewData["Title"] = "Solução em CEPs";
+}
+
+<h2>Listagem de CEPs</h2>
+<table class="table table-striped">
+    <thead>        
+        <tr>
+            <th>CEP</th>
+            <th>UF</th>
+            <th>Cidade</th>
+            <th>Bairro</th>
+            <th>Logradouro</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.CEP</td>
+                <td>@item.UF</td>
+                <td>@item.Cidade</td>
+                <td>@item.Bairro</td>
+                <td>@item.Logradouro</td>
+            </tr>                
+        }
+    </tbody>
+</table>
