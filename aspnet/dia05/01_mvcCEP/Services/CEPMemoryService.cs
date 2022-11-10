@@ -22,6 +22,12 @@ public class CEPMemoryService: ICEPServices
         return searchResult;
     }
 
+    void ICEPServices.eliminaCEP(string cep)
+    {
+        CEPViewModel? obj;
+        listaDeCEPs.TryRemove(cep, out obj);        
+    }
+
     public CEPMemoryService(){
         CEPViewModel aux = new CEPViewModel{
                 CEP="90619900",

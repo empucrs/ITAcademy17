@@ -1,0 +1,21 @@
+﻿@model CEPViewModel
+@{
+    ViewData["Title"] = "Busca CEP";
+}
+
+<h2>Busca de detalhes de CEP</h2>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Search" method="get">
+            <div class="form-group">
+                <label for="id">CEP:</label>
+                <input id="id" name="id"/>
+                <input type="submit" value="Buscar"></input>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="row">
+    <span>@Model?.Logradouro</span>
+</div>

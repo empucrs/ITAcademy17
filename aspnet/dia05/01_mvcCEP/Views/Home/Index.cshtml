@@ -12,6 +12,7 @@
             <th>Cidade</th>
             <th>Bairro</th>
             <th>Logradouro</th>
+            <th>Ação</th>
         </tr>
     </thead>
     <tbody>
@@ -23,6 +24,7 @@
                 <td>@item.Cidade</td>
                 <td>@item.Bairro</td>
                 <td>@item.Logradouro</td>
+                <td><a class="btn btn-danger" href="Home/Eliminar/@item.CEP" role="button">Eliminar</a></td>
             </tr>                
         }
     </tbody>

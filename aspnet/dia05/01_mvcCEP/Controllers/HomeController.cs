@@ -22,6 +22,13 @@ public class HomeController : Controller
         return View(ceps);
     }
 
+    public IActionResult Eliminar(string id){
+        if(ModelState.IsValid)
+            _localCEPServices.eliminaCEP(id);
+
+        return RedirectToAction(nameof(Index));
+    }
+
     public IActionResult Create()
     {
         return View();
@@ -48,4 +55,12 @@ public class HomeController : Controller
     {
         return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
+
+    public IActionResult Search(string id){
+        CEPViewModel? cepBuscado=null;
+        if(!string.IsNullOrEmpty(id))
+            cepBuscado = _localCEPServices.buscaCEPs(id);
+        return View(cepBuscado);
+    }
+
 }
