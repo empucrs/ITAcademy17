@@ -25,4 +25,24 @@ public class cepAPIController : ControllerBase
         return _cepService.listaCEPs().OrderBy(p => p.Bairro).ToArray();
         
     }
+
+    [HttpGet("{codigo}")]
+    [ProducesResponseType(200)]
+    [ProducesResponseType(404)]
+    public ActionResult<CEPModel> GetCEPEspecifico(String codigo){
+
+        CEPModel? aux = _cepService.buscaCEPs(codigo);
+
+        if(aux == null)
+            return NotFound();
+
+        return aux;
+
+    }
+
+    [HttpPost]
+    public ActionResult<CEPModel> addCEP([FromBody] CEPModel cep){
+        _cepService.adicionaCEP(cep);
+        return cep;
+    }
 }

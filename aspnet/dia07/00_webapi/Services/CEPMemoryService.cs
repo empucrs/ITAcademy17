@@ -17,6 +17,11 @@ public class CEPMemoryService: ICEPServices
         return searchResult;
     }
 
+    public void adicionaCEP(CEPModel cep)
+    {
+        listaDeCEPs.TryAdd(cep.CEP, cep);
+    }
+
     public CEPMemoryService(){
         CEPModel aux = new CEPModel{
                 CEP="90619900",
