@@ -3,6 +3,7 @@
 Console.WriteLine("Inicio do meu programa");
 using var db = new CEPDBContext();
 
+/*
 var umCEP = new CEPModel(){
         CEP="90840450",
         UF="RS",
@@ -32,12 +33,13 @@ db.Add(umCEP);
 
 db.SaveChanges();
 
+*/
 Console.WriteLine("Consumindo todos os dado da base de dados");
 var listaDeCEPs = db.ceps;
 foreach (var cep in listaDeCEPs)
     Console.WriteLine(cep);
 
-/*
+
 Console.WriteLine("Consumindo dado da base de dados baseado em condição");
 var selectDaListaDeCEPs = db.ceps.Where( p => p.Bairro.ToUpper().Contains("SANTA") );
 foreach (var cep in selectDaListaDeCEPs)
@@ -45,13 +47,15 @@ foreach (var cep in selectDaListaDeCEPs)
 
 
 Console.WriteLine("Consumindo um dado específico da base de dados baseado");
-var umCEPEspecifico = db.ceps.Find(3);
+var umCEPEspecifico = db.ceps.Find(1);
 Console.WriteLine(umCEPEspecifico);
 umCEPEspecifico!.Logradouro = "Rua das palmeiras, nro 1234";
 db.SaveChanges();
 
-db.SaveChangesAsync();
-
+Console.WriteLine("Consumindo todos os dado da base de dados");
+listaDeCEPs = db.ceps;
+foreach (var cep in listaDeCEPs)
+    Console.WriteLine(cep);
 
 Console.WriteLine("Elininando o primeiro elemento da base de dados");
 db.Remove(listaDeCEPs.First());
@@ -61,6 +65,5 @@ Console.WriteLine("Consumindo todos os dado da base de dados");
 listaDeCEPs = db.ceps;
 foreach (var cep in listaDeCEPs)
     Console.WriteLine(cep);
-*/
 
 Console.WriteLine("FIM do meu programa");
