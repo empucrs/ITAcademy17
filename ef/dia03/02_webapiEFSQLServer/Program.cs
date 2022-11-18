@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using _02_webapiEFSQLServer.Models;
+using _02_webapiEFSQLServer.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +11,9 @@ builder.Services.AddDbContext<LojaContext> (
         opcoes.EnableSensitiveDataLogging().LogTo(Console.WriteLine);
     }
 );
+
+builder.Services.AddScoped<IProdutoRepo, ProdutoRepoService>();
+
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
